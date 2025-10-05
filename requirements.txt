@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-docx
+PyMuPDF
+scikit-learn
+joblib
+requests
+beautifulsoup4
